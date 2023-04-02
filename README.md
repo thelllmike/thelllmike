@@ -1,4 +1,4 @@
-![logo](![image](https://user-images.githubusercontent.com/39330996/229369992-fbc19b27-b4dd-4caa-8e55-be83e0b7bb23.png))
+![logo](https://user-images.githubusercontent.com/39330996/229369992-fbc19b27-b4dd-4caa-8e55-be83e0b7bb23.png)
 <h1 align="center">Hi 👋, I'm Sachin Harshitha</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
