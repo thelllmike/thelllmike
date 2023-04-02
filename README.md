@@ -1,4 +1,4 @@
-![logo](https://ialcocer.files.wordpress.com/2016/04/tumblr_o5nu1nwdcw1qcwtcoo1_400.gif?w=346](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdhn8yV732HhrNqtYeKYD8TuuQSSCBaGZFU75s6-DdPUhZcY1pGGrhJ6F455WzJF53eV4&usqp=CAU)
+![logo](![image](https://user-images.githubusercontent.com/39330996/229369872-813cd10c-a88a-4c49-a555-cb7e6e343845.png))
 <h1 align="center">Hi 👋, I'm Sachin Harshitha</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
