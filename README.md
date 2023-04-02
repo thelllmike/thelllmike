@@ -1,4 +1,4 @@
-![logo](https://media.newyorker.com/photos/623a1413d2edfd75e5c5c7d5/master/w_2560%2Cc_limit/halpern_ukraine_hack.gif)
+![logo](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sachin Harshitha</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
