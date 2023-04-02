@@ -1,3 +1,4 @@
+![logo](https://ialcocer.files.wordpress.com/2016/04/tumblr_o5nu1nwdcw1qcwtcoo1_400.gif?w=346)
 <h1 align="center">Hi 👋, I'm Sachin Harshitha</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
