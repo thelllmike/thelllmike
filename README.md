@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Sachin Harshitha</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
-<img align = "right" alt ="coding" width ="400" src ="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=1024&imh=575&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelllmike&label=Profile%20views&color=0e75b6&style=flat" alt="thelllmike" /> </p>
-
+<img align = "right" alt ="coding" width ="400" src ="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=1024&imh=575&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelllmike" alt="thelllmike" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thelllmike" target="blank"><img src="https://img.shields.io/twitter/follow/thelllmike?logo=twitter&style=for-the-badge" alt="thelllmike" /></a> </p>
