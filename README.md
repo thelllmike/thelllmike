@@ -1,4 +1,4 @@
-![logo](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Sachin Harshitha</h1>
 <h3 align="center">A passionate Backend developer from Sri Lanka</h3>
 
@@ -38,4 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thelllmike&show_icons=true&locale=en" alt="thelllmike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelllmike&" alt="thelllmike" /></p>
-![logo](https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
