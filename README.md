@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I'm sachin an aspiring software developer working on a mini social media app using Flutter. I'm looking for collaborators who share my passion for building innovative solutions. Let's connect on GitHub and make it happen!
 
+[![](https://visitcount.itsvg.in/api?id=thelllmike&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SLCleverproject) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cleverprojectsl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thellmike) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/thellmike) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cleverproject) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thelllmike) 
