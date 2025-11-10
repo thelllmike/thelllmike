@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm sachin an aspiring software developer working on a mini social media app using Flutter. I'm looking for collaborators who share my passion for building innovative solutions. Let's connect on GitHub and make it happen!
+Engineer across mobile, web, data, and web3. Shipped 150+ features across startups and client work. Stack: Flutter/Dart • React/Next.js • Node/FastAPI • PostgreSQL/MongoDB • PyTorch/TensorFlow • OpenCV • Solidity/web3 • Docker • CI/CD. Fiverr Level 2 Seller. Let’s build something real
 
 [![](https://visitcount.itsvg.in/api?id=thelllmike&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
