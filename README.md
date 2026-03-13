@@ -1,6 +1,8 @@
 # 💫 About Me:
 Engineer across mobile, web, data, and web3. Shipped 180+ features across startups and client work. Stack: Flutter/Dart • React/Next.js • Node/FastAPI • PostgreSQL/MongoDB • PyTorch/TensorFlow • OpenCV • Solidity/web3 • Docker • CI/CD. Fiverr Level 2 Seller. Let’s build something real
 
+ https://app.lottiefiles.com/animation/9e92ac8e-7eee-4e6e-b1b1-c9a032913855
+
 [![](https://visitcount.itsvg.in/api?id=thelllmike&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
