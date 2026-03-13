@@ -3,7 +3,7 @@ Engineer across mobile, web, data, and web3. Shipped 180+ features across startu
 
 <p align="center">
   <a href="https://app.lottiefiles.com/animation/9e92ac8e-7eee-4e6e-b1b1-c9a032913855" target="_blank">
-    <img src="1Coding Slide.gif" width="320" alt="About me animation" />
+    <img src="CodingSlide1.gif" width="320" alt="About me animation" />
   </a>
 </p>
 
