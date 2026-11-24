@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="210" viewBox="0 0 820 210" fill="none">
+<defs><radialGradient id="g"><stop offset="0" stop-color="#D97757" stop-opacity="0.38"/><stop offset="1" stop-color="#D97757" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="820" height="210" rx="18"/></clipPath>
+<style>.f{font-family:ui-sans-serif,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.a{animation:p 3s ease-in-out infinite;transform-origin:760px 40px}@keyframes p{50%{transform:scale(1.15);opacity:.7}}
+.arrow{animation:n 2s ease-in-out infinite}@keyframes n{50%{transform:translate(3px,-3px)}}</style></defs>
+<g clip-path="url(#c)"><rect width="820" height="210" fill="#161513"/><g class="a"><circle cx="760" cy="40" r="160" fill="url(#g)"/></g>
+<text x="28" y="42" class="m" font-size="12" letter-spacing="1.5" fill="#D97757">FLAGSHIP · NFC + QR</text>
+<text x="28" y="80" class="f" font-size="32" font-weight="700" letter-spacing="-.5" fill="#F5EFE6">AmigoTap</text>
+<text x="28" y="106" class="f" font-size="15" fill="#F0C9B5">Tap. Scan. Connect.</text>
+<text x="28" y="132" class="f" font-size="13" fill="#F5EFE6" fill-opacity=".55">Smart NFC business cards, QR display stands and</text>
+<text x="28" y="150" class="f" font-size="13" fill="#F5EFE6" fill-opacity=".55">a QR order menu system for restaurants.</text>
+<rect x="28" y="164" width="39" height="24" rx="12" fill="#F5EFE6" fill-opacity=".06" stroke="#F5EFE6" stroke-opacity=".12"/><text x="47" y="180" text-anchor="middle" class="m" font-size="12" fill="#F5EFE6" fill-opacity=".7">Web</text><rect x="74.8" y="164" width="92" height="24" rx="12" fill="#F5EFE6" fill-opacity=".06" stroke="#F5EFE6" stroke-opacity=".12"/><text x="121" y="180" text-anchor="middle" class="m" font-size="12" fill="#F5EFE6" fill-opacity=".7">Mobile App</text><rect x="174.8" y="164" width="39" height="24" rx="12" fill="#F5EFE6" fill-opacity=".06" stroke="#F5EFE6" stroke-opacity=".12"/><text x="194" y="180" text-anchor="middle" class="m" font-size="12" fill="#F5EFE6" fill-opacity=".7">NFC</text>
+<g class="arrow"><circle cx="780" cy="172" r="16" fill="#D97757"/><path d="M774 178l12-12M777 166h9v9" stroke="#161513" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x=".5" y=".5" width="819" height="209" rx="17.5" stroke="#D97757" stroke-opacity="0.4"/></g></svg>

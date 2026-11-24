@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="210" viewBox="0 0 400 210" fill="none">
+<defs><radialGradient id="g"><stop offset="0" stop-color="#D97757" stop-opacity="0.26"/><stop offset="1" stop-color="#D97757" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="400" height="210" rx="18"/></clipPath>
+<style>.f{font-family:ui-sans-serif,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.a{animation:p 3s ease-in-out infinite;transform-origin:340px 40px}@keyframes p{50%{transform:scale(1.15);opacity:.7}}
+.arrow{animation:n 2s ease-in-out infinite}@keyframes n{50%{transform:translate(3px,-3px)}}</style></defs>
+<g clip-path="url(#c)"><rect width="400" height="210" fill="#161513"/><g class="a"><circle cx="340" cy="40" r="110" fill="url(#g)"/></g>
+<text x="28" y="42" class="m" font-size="12" letter-spacing="1.5" fill="#D97757">POINT OF SALE</text>
+<text x="28" y="80" class="f" font-size="27" font-weight="700" letter-spacing="-.5" fill="#F5EFE6">Mobile POS</text>
+<text x="28" y="106" class="f" font-size="15" fill="#F0C9B5">Your till, in your pocket.</text>
+<text x="28" y="132" class="f" font-size="13" fill="#F5EFE6" fill-opacity=".55">Billing for grocery shops, cafés and salons —</text>
+<text x="28" y="150" class="f" font-size="13" fill="#F5EFE6" fill-opacity=".55">Sinhala receipts, stock and customer credit.</text>
+<rect x="28" y="164" width="69" height="24" rx="12" fill="#F5EFE6" fill-opacity=".06" stroke="#F5EFE6" stroke-opacity=".12"/><text x="63" y="180" text-anchor="middle" class="m" font-size="12" fill="#F5EFE6" fill-opacity=".7">Android</text><rect x="105.19999999999999" y="164" width="69" height="24" rx="12" fill="#F5EFE6" fill-opacity=".06" stroke="#F5EFE6" stroke-opacity=".12"/><text x="140" y="180" text-anchor="middle" class="m" font-size="12" fill="#F5EFE6" fill-opacity=".7">Billing</text><rect x="182.39999999999998" y="164" width="54" height="24" rx="12" fill="#F5EFE6" fill-opacity=".06" stroke="#F5EFE6" stroke-opacity=".12"/><text x="209" y="180" text-anchor="middle" class="m" font-size="12" fill="#F5EFE6" fill-opacity=".7">Stock</text>
+<g class="arrow"><circle cx="360" cy="172" r="16" fill="#D97757"/><path d="M354 178l12-12M357 166h9v9" stroke="#161513" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x=".5" y=".5" width="399" height="209" rx="17.5" stroke="#F5EFE6" stroke-opacity="0.1"/></g></svg>
